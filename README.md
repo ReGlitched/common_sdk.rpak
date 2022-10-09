@@ -1,7 +1,7 @@
 # A small explanation of how to use this tool:
 <b>
-This is the bolo sword custom heirloom
- <b>
+This is the bolo sword custom heirloom <b>
+ 
 1. Extract this tool into a folder somewhere. <b>
 
 2. Drag and drop Common_sdk.json onto Repak.exe <b>
