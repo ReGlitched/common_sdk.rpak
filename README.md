@@ -18,12 +18,19 @@ Make sure that the textures are IN ORDER when adding custom ones. <b>
   
 
 slot1 _col <b>
+ 
 slot2 _nml <b>
+ 
 slot3 _gls/_exp <b>
+ 
 slot4 _spc <b>
+ 
 slot5 _ilm <b>
+ 
 slot6 _ao <b>
+ 
 slot7 _cav/cvt <b>
+ 
 slot8 _opa <b>
 
 ### Adding custom models
