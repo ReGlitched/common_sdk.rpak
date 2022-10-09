@@ -1,5 +1,6 @@
 # common_sdk.rpak
-R5Reloaded main asset rpak and starpaks
+A small explanation of how to use this tool:
+<b>
 
 Drag and drop Common_sdk.json onto Repak.exe
 (This is the bolo sword custom heirloom)
