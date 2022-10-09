@@ -1,4 +1,3 @@
-# common_sdk.rpak
 # A small explanation of how to use this tool:
 <b>
 This is the bolo sword custom heirloom
