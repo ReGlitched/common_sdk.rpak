@@ -6,7 +6,7 @@ This is the bolo sword custom heirloom <b>
 
 2. Drag and drop Common_sdk.json onto RePak.exe <b>
   
-3. When you do this you will see a cmd line for a brief second and there will be 2 files inside of the build folder. <b>
+3. When you do this you will see a cmd prompt for a brief second and there will be 2 files inside of the build folder. <b>
   
 4. Drag those files into the paks/Win64 Folder in your R5Reloaded directory <b>
   
