@@ -12,7 +12,7 @@ This is the bolo sword custom heirloom <b>
   
 ## Adding custom textures:
 
-[Texture Expanation](https://github.com/MCLOLSMAN/common_sdk.rpak/blob/main/Texture%2C%20material%20info.txt)
+[Texture Info](https://github.com/MCLOLSMAN/common_sdk.rpak/blob/main/Texture%2C%20material%20info.txt) <b>
 Make sure that the textures are IN ORDER when adding custom ones. <b>
   Repak is very picky with the DDS texture files. Make sure not to edit them with Gimp, Use paint.net. <b>
   
