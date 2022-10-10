@@ -43,4 +43,4 @@ An example would be ""mdl/Weapons/vinson/ptpov_vinson.rmdl""
 
 ## Animations
 The animations have to be ones found in r5. <b>
-They do not need to be added anywhere, just put the path in the json. <b>
+The files do not need to be extacted or added anywhere, just put the path in the json. <b>
