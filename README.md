@@ -36,7 +36,8 @@ slot8 _opa <b>
 
 ## Adding custom models
 
-Make sure that models are extracted as .RMDL and a ptov. Must be placed in the coresponding folder found in Legion+ <b>
+Make sure that models are extracted as .RMDL and are a ptpov model. <b>
+It must be placed in the coresponding folder found in Legion+ <b>
 
 An example would be ""mdl/Weapons/vinson/ptpov_vinson.rmdl""
 
