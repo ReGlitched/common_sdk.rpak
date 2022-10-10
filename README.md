@@ -34,13 +34,13 @@ slot7 _cav/cvt <b>
  
 slot8 _opa <b>
 
-### Adding custom models
+## Adding custom models
 
 Make sure that models are extracted as .RMDL and placed in the coresponding folder found in Legion+ <b>
 
 An example would be ""mdl/Weapons/vinson/ptpov_vinson.rmdl""
 
 
-#### Animations
+## Animations
 The animations have to be ones found in r5. <b>
 They do not need to be added anywhere, just put the path in the json. <b>
