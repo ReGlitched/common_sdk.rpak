@@ -46,5 +46,5 @@ An example would be ""mdl/Weapons/vinson/ptpov_vinson.rmdl""
 The animations have to be ones found in r5. <b>
 The files do not need to be extacted or added anywhere, just put the path in the json. <b>
 
-##UPDATE
+## UPDATE
 Animations now have the ability to be added.You need the rrig and the rseq anim files.
