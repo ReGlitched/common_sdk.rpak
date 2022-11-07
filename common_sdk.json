@@ -5,7 +5,7 @@
   "assetsDir": ".\\assets\\",
   "outputDir": ".\\build\\",
   "name": "common_sdk",
-
+  "starpakPath": "paks/Win64/common_sdk.starpak",
 "files" : [
 	{
 	"$type": "txtrlist",
@@ -16,7 +16,7 @@
      "texture/models/weapons/bolo_sword/bolo_sword_01_spc"
      "texture/models/weapons/bolo_sword/bolo_sword_01_ilm"
      "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
-			     ]
+	  ]
         },
 	{
       "$type": "matl",
@@ -40,7 +40,6 @@
 	{
       "$type": "rmdl",
       "path": "mdl/weapons/bolo_sword/ptpov_bolo_sword_ash.rmdl",
-      "starpakPath": "paks/Win64/common_sdk.starpak",
       "usePhysics": false,
       "materials": [
         "models/weapons/bolo_sword/bolo_sword_02_sknp",
