@@ -6,30 +6,16 @@
   "outputDir": ".\\build\\",
   "name": "common_sdk",
 
-  "files": [
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_col"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_nml"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_gls"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_spc"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_ilm"
-    },
-    {
-      "$type": "txtr",
-      "path": "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
+"files" : [
+	{
+	"$type": "txtrlist",
+		"textures" : [
+     "texture/models/weapons/bolo_sword/bolo_sword_01_col"
+     "texture/models/weapons/bolo_sword/bolo_sword_01_nml"
+     "texture/models/weapons/bolo_sword/bolo_sword_01_gls"
+     "texture/models/weapons/bolo_sword/bolo_sword_01_spc"
+     "texture/models/weapons/bolo_sword/bolo_sword_01_ilm"
+     "texture/models/weapons/bolo_sword/bolo_sword_01_ao"
     },
 	{
       "$type": "matl",
